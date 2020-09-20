@@ -1,0 +1,3 @@
+my first line edited in vi
+www.apfelwiki.de/Main/VI helped
+
